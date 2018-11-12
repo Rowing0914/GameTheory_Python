@@ -19,3 +19,5 @@
 
 ## Prisoners' Dilemma
 Please look at the picture below.
+
+![table1](https://github.com/Rowing0914/GameTheory_Python/blob/master/Prisoners_Dilemma/images/1.PNG)
