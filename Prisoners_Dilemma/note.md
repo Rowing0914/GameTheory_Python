@@ -1,3 +1,7 @@
+## Key Concept
+- **Strict Dominance**
+- **Rational Players**
+
 ## Problem Settings
 * Two suspects are arrested because they were sneaking around the headquatre of the bank of Japan in Tokyo.
 * The police think that they were trying to steal huge money from there. However, the police can only prove that the suspects were bringing the confidential map of the building.
