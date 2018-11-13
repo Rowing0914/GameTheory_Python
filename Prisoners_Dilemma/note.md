@@ -31,3 +31,12 @@ Let's look at the each option carefully.
 - Case 2: Given Player2's Confess option
 ![table2](https://github.com/Rowing0914/GameTheory_Python/blob/master/Prisoners_Dilemma/images/3.PNG)
 Either way, obviously Player1 should act on the confess unless the person is not completely rational.
+
+### Concept: Strict Dominance
+* Strategy x strictly dominates strategy y for a player if x generates a greater payoff than y regardless of what the other players do.
+* Rational players never play strictly dominated(not dominates!!) strategies.
+
+## Conclusion of the Game
+In prisoners' dilemma, normally two rational players decide on the action depending on their own interests.
+Hence, in this case, they both end up with choosing "Confess" as we confirmed looking at the Player1's view.
+If you check with Player2, surely you can observe the same outcome.
