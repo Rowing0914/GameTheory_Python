@@ -24,16 +24,16 @@
 ## Prisoners' Dilemma
 Please look at the picture below.
 
-![table1](https://github.com/Rowing0914/GameTheory_Python/blob/master/Prisoners_Dilemma/images/1.PNG)
+![table1](https://github.com/Rowing0914/GameTheory_Python/blob/master/01_Prisoners_Dilemma/images/1.PNG)
 
 We have just written down the situation of the suspects. As you can see, there might be some optimal options within the given table.
 Let's look at the each option carefully.
 
 ### Viewpoit of Player1
 - Case 1: Given Player2's Keep Quiet option
-![table2](https://github.com/Rowing0914/GameTheory_Python/blob/master/Prisoners_Dilemma/images/2.PNG)
+![table2](https://github.com/Rowing0914/GameTheory_Python/blob/master/01_Prisoners_Dilemma/images/2.PNG)
 - Case 2: Given Player2's Confess option
-![table2](https://github.com/Rowing0914/GameTheory_Python/blob/master/Prisoners_Dilemma/images/3.PNG)
+![table2](https://github.com/Rowing0914/GameTheory_Python/blob/master/01_Prisoners_Dilemma/images/3.PNG)
 Either way, obviously Player1 should act on the confess unless the person is not completely rational.
 
 ### Concept: Strict Dominance
